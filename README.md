@@ -11,7 +11,7 @@ To use this script, you'll need to have the following:
 1. Clone or download this repository to your computer.
 2. Navigate to the directory where you cloned or downloaded this repository.
 3. Run the corresponding script:
-   - Linux and Mac (Bash): `scriptSH.sh`
+   - Linux and Mac (Shell): `scriptSH.sh`
    - Windows (PowerShell): `scriptPS.ps1`
 4. Follow the instructions in the terminal to enter your Spotify client ID and secret, and to log in to your Spotify account.
 5. Once you have logged in, paste the authorization code into the terminal window as prompted.
